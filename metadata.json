@@ -1,0 +1,5 @@
+{
+  "name": "Imagen AI Image Generator",
+  "description": "A modern, responsive web application that allows users to generate high-resolution, detailed images using the Google Imagen model via the Gemini API.",
+  "requestFramePermissions": []
+}
